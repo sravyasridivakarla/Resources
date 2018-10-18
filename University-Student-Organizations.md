@@ -41,6 +41,13 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
   * [The Computer Science Club](https://www.facebook.com/groups/daviscsclub/)  
     This Facebook group is for discussing interesting topical news and events related
     to the topic of Computer Science and Computer Science at UC Davis.
+    
+  * [Women in Computer Science](wicsdavis.github.io)  
+    Our mission is to build a collaborative and inclusive community to encourage women 
+    to support each other personally and professionally.
+     * [Facebook](https://www.facebook.com/pg/DavisWICS/ )
+     * [Instagram](https://www.instagram.com/wicsdavis/ )
+     * [Github](https://github.com/wicsdavis)
 
   * [The Society of Women Engineers at UC Davis](https://www.facebook.com/SocietyofWomenEngineersatUCDavis/?fref=ts)  
     The local chapter here at UC Davis is free to all engineering students
